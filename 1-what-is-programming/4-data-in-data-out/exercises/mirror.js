@@ -11,8 +11,7 @@
   Test Cases:
     'abc' -> 'abc | cba'
     'hello' -> 'olleh | hello'
-    'dolphin' -> 'nihplod | dolphin'
-    
+    'dolphins' -> 'snihplod | dolphins'
 */
 
 /* --- gather user input --- */
