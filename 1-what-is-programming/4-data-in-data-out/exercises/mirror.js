@@ -3,14 +3,15 @@
 /* Mirror
 
   Data In:
-
+    any text
 
   Data Out:
-
+    the reversed input and the vertical bar separating the unchanged input 
 
   Test Cases:
-
-
+    'abc' -> 'abc | cba'
+    'hello' -> 'olleh | hello'
+    'dolphins' -> 'snihplod | dolphins'
 */
 
 /* --- gather user input --- */
